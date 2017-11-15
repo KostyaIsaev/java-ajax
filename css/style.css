@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+*,html,body{margin:0; padding:0; list-style:none; text-decoration:none; outline:none;box-sizing:border-box;user-select:none;}
+.item{display: block;margin: 20px auto;}
+#info{width: 100px;height: 0;position: fixed;left: 0;right: 0;top: 0;bottom: 0;margin: auto;display: none;}
+#info img{width: 100%;}
